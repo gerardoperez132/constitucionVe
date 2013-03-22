@@ -1,4 +1,4 @@
-/home/gerardo/workspace/constitucionVenezolna/bin/constitucionVenezolna-debug-unaligned.apk : \
-/home/gerardo/workspace/constitucionVenezolna/bin/constitucionVenezolna.ap_ \
-/home/gerardo/workspace/constitucionVenezolna/bin/classes.dex \
-/home/gerardo/workspace/constitucionVenezolna/libs/cordova-2.5.0.jar \
+/home/gerardo/gitConstitucion/constitucionVe/bin/constitucionVenezolna-debug-unaligned.apk : \
+/home/gerardo/gitConstitucion/constitucionVe/bin/constitucionVenezolna.ap_ \
+/home/gerardo/gitConstitucion/constitucionVe/bin/classes.dex \
+/home/gerardo/gitConstitucion/constitucionVe/libs/cordova-2.5.0.jar \

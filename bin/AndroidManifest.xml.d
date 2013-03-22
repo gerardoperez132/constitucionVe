@@ -1,2 +1,2 @@
-/home/gerardo/workspace/constitucionVenezolna/bin/AndroidManifest.xml : \
-/home/gerardo/workspace/constitucionVenezolna/AndroidManifest.xml \
+/home/gerardo/gitConstitucion/constitucionVe/bin/AndroidManifest.xml : \
+/home/gerardo/gitConstitucion/constitucionVe/AndroidManifest.xml \
