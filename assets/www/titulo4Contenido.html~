@@ -1,0 +1,808 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+	    <meta name="viewport" content="width=device-width, initial-scale=1">
+        <meta name="viewport" content="user-scalable=no, initial-scale=1, maximum-scale=1, minimum-scale=1, width=device-width, height=device-height, target-densitydpi=device-dpi" />
+        <link rel="stylesheet" type="text/css" href="css/themes/default/jquery.mobile-1.3.0.min.css" />
+    </head>
+    <body>
+         <div data-role="page" id="page2">
+<!-- Header -->
+    <div data-theme="d" data-role="header">
+        <a data-role="button"  href="info.html" data-icon="info" data-iconpos="left"
+        class="ui-btn-right">
+            Info
+        </a>
+
+        <a data-role="button" href="index.html" data-icon="arrow-l" data-iconpos="left"
+        class="ui-btn-left">
+            Home
+        </a>
+        <h5>
+            TITULO IV
+        </h5>
+    </div>
+    <!-- Header -->
+    <div data-role="collapsible-set" data-content-theme="d" id="set" class="ui-collapsible-set ui-corner-all">
+           <!--  Capítulo I -->
+                <div data-role="collapsible" id="set1" data-collapsed="true" class="ui-collapsible ui-collapsible-inset ui-collapsible-themed-content ui-first-child ui-collapsible-collapsed">
+                    
+                        <h3 class="ui-collapsible-heading ui-collapsible-heading-collapsed">
+                           Capítulo I
+                        </h3>
+                        <!-- Seccion 1 -->
+                         <h2>
+                          De las Disposiciones Fundamentales
+                          <br>
+                          Sección Primera: de las Disposiciones Generales
+                         </h2>
+                         <!-- Seccion 1 -->
+                     <!-- Articulos del Capítulo I -->
+                            <div data-role="collapsible-set" data-content-theme="d" id="setArt1" class="ui-collapsible-set ui-corner-all">
+                    <div data-role="collapsible" id="set2" data-collapsed="true" class="ui-collapsible ui-collapsible-inset ui-collapsible-themed-content ui-first-child ui-collapsible-collapsed">
+                    
+                       <h3 class="ui-collapsible-heading ui-collapsible-heading-collapsed">
+                            Artículo 136
+                        </h3>
+                        <p>                    
+                           El Poder Público se distribuye entre el Poder Municipal, el Poder Estadal y el Poder Nacional. El Poder Público Nacional se divide en Legislativo, Ejecutivo, Judicial, Ciudadano y Electoral.
+
+                           Cada una de las ramas del Poder Público tiene sus funciones propias, pero los órganos a los que incumbe su ejercicio colaborarán entre sí en la realización de los fines del Estado.
+                        </p>                    
+                     </div>
+                     <div data-role="collapsible" id="set3" data-collapsed="true" class="ui-collapsible ui-collapsible-inset ui-collapsible-themed-content ui-first-child ui-collapsible-collapsed">
+                    
+                       <h3 class="ui-collapsible-heading ui-collapsible-heading-collapsed">
+                            Artículo 137
+                        </h3>
+                        <p>                    
+                            La Constitución y la ley definirán las atribuciones de los órganos que ejercen el Poder Público, a las cuales deben sujetarse las actividades que realicen.
+                        </p>                    
+                     </div>
+                     <div data-role="collapsible" id="set4" data-collapsed="true" class="ui-collapsible ui-collapsible-inset ui-collapsible-themed-content ui-first-child ui-collapsible-collapsed">
+                    
+                       <h3 class="ui-collapsible-heading ui-collapsible-heading-collapsed">
+                            Artículo 138
+                        </h3>
+                        <p>                    
+                            Toda autoridad usurpada es ineficaz y sus actos son nulos.
+                        </p>                    
+                     </div>
+                     <div data-role="collapsible" id="set5" data-collapsed="true" class="ui-collapsible ui-collapsible-inset ui-collapsible-themed-content ui-first-child ui-collapsible-collapsed">
+                    
+                       <h3 class="ui-collapsible-heading ui-collapsible-heading-collapsed">
+                            Artículo 139
+                        </h3>
+                        <p>                    
+                           El ejercicio del Poder Público acarrea responsabilidad individual por abuso o desviación de poder o por violación de esta Constitución o de la ley.
+                        </p>                    
+                     </div>
+                     <div data-role="collapsible" id="set6" data-collapsed="true" class="ui-collapsible ui-collapsible-inset ui-collapsible-themed-content ui-first-child ui-collapsible-collapsed">
+                    
+                       <h3 class="ui-collapsible-heading ui-collapsible-heading-collapsed">
+                            Artículo 140
+                        </h3>
+                        <p>                    
+                           El Estado responderá patrimonialmente por los daños que sufran los particulares en cualquiera de sus bienes y derechos, siempre que la lesión sea imputable al funcionamiento de la administración pública.
+                        </p>                    
+                     </div>
+                    <!-- Seccion 2 -->
+                    <h2>
+                        Sección Segunda: de la administración pública
+                    </h2>    
+                    <!-- Seccion 2 -->
+                     <div data-role="collapsible" id="set6" data-collapsed="true" class="ui-collapsible ui-collapsible-inset ui-collapsible-themed-content ui-first-child ui-collapsible-collapsed">
+                    
+                       <h3 class="ui-collapsible-heading ui-collapsible-heading-collapsed">
+                            Artículo 141
+                        </h3>
+                        <p>                    
+                           La Administración Pública está al servicio de los ciudadanos y ciudadanas y se fundamenta en los principios de honestidad, participación, celeridad, eficacia, eficiencia, transparencia, rendición de cuentas y responsabilidad en el ejercicio de la función pública, con sometimiento pleno a la ley y al derecho.
+                        </p>                    
+                     </div>
+                     <div data-role="collapsible" id="set6" data-collapsed="true" class="ui-collapsible ui-collapsible-inset ui-collapsible-themed-content ui-first-child ui-collapsible-collapsed">
+                    
+                       <h3 class="ui-collapsible-heading ui-collapsible-heading-collapsed">
+                            Artículo 142
+                        </h3>
+                        <p>                    
+                           Los institutos autónomos sólo podrán crearse por ley. Tales instituciones, así como los intereses públicos en corporaciones o entidades de cualquier naturaleza, estarán sujetos al control del Estado, en la forma que la ley establezca.
+                        </p>                    
+                     </div>
+                     <div data-role="collapsible" id="set6" data-collapsed="true" class="ui-collapsible ui-collapsible-inset ui-collapsible-themed-content ui-first-child ui-collapsible-collapsed">
+                    
+                       <h3 class="ui-collapsible-heading ui-collapsible-heading-collapsed">
+                            Artículo 143
+                        </h3>
+                        <p>                    
+                           Los ciudadanos y ciudadanas tienen derecho a ser informados e informadas oportuna y verazmente por la Administración Pública, sobre el estado de las actuaciones en que estén directamente interesados e interesadas, y a conocer las resoluciones definitivas que se adopten sobre el particular. Asimismo, tienen acceso a los archivos y registros administrativos, sin perjuicio de los límites aceptables dentro de una sociedad democrática en materias relativas a seguridad interior y exterior, a investigación criminal y a la intimidad de la vida privada, de conformidad con la ley que regule la materia de clasificación de documentos de contenido confidencial o secreto. No se permitirá censura alguna a los funcionarios públicos o funcionarias públicas que informen sobre asuntos bajo su responsabilidad.
+                        </p>                    
+                     </div>
+                     <!-- Seccion 3 -->
+                    <h2>
+                        Sección Tercera: de la Función Pública
+                    </h2>    
+                    <!-- Seccion 3 -->
+                    <div data-role="collapsible" id="set6" data-collapsed="true" class="ui-collapsible ui-collapsible-inset ui-collapsible-themed-content ui-first-child ui-collapsible-collapsed">
+                    
+                       <h3 class="ui-collapsible-heading ui-collapsible-heading-collapsed">
+                            Artículo 144
+                        </h3>
+                        <p>                    
+                         La ley establecerá el Estatuto de la función pública mediante normas sobre el ingreso, ascenso, traslado, suspensión y retiro de los funcionarios o funcionarias de la Administración Pública, y proveerá su incorporación a la seguridad social.
+
+                         La ley determinará las funciones y requisitos que deben cumplir los funcionarios públicos y funcionarias públicas para ejercer sus cargos.
+                        </p>                    
+                     </div>
+                     <div data-role="collapsible" id="set6" data-collapsed="true" class="ui-collapsible ui-collapsible-inset ui-collapsible-themed-content ui-first-child ui-collapsible-collapsed">
+                    
+                       <h3 class="ui-collapsible-heading ui-collapsible-heading-collapsed">
+                            Artículo 145
+                        </h3>
+                        <p>                    
+                         Los funcionarios públicos y funcionarias públicas están al servicio del Estado y no de parcialidad alguna. Su nombramiento y remoción no podrán estar determinados por la afiliación u orientación política. quien esté al servicio de los Municipios, de los Estados, de la República y demás personas jurídicas de derecho público o de derecho privado estatales, no podrá celebrar contrato alguno con ellas, ni por sí ni por interpuesta persona, ni en representación de otro u otra, salvo las excepciones que establezca la ley.
+                        </p>                    
+                     </div>
+                     <div data-role="collapsible" id="set6" data-collapsed="true" class="ui-collapsible ui-collapsible-inset ui-collapsible-themed-content ui-first-child ui-collapsible-collapsed">
+                    
+                       <h3 class="ui-collapsible-heading ui-collapsible-heading-collapsed">
+                            Artículo 146
+                        </h3>
+                        <p>                    
+                         Los cargos de los órganos de la Administración Pública son de carrera. Se exceptúan los de elección popular, los de libre nombramiento y remoción, los contratados y contratadas, los obreros y obreras al servicio de la Administración Pública y los demás que determine la Ley.
+
+                         El ingreso de los funcionarios públicos y las funcionarias públicas a los cargos de carrera será por concurso público, fundamentado en principios de honestidad, idoneidad y eficiencia. El ascenso estará sometido a métodos científicos basados en el sistema de méritos, y el traslado, suspensión y retiro será de acuerdo con su desempeño.
+                        </p>                    
+                     </div>
+                     <div data-role="collapsible" id="set6" data-collapsed="true" class="ui-collapsible ui-collapsible-inset ui-collapsible-themed-content ui-first-child ui-collapsible-collapsed">
+                    
+                       <h3 class="ui-collapsible-heading ui-collapsible-heading-collapsed">
+                            Artículo 147
+                        </h3>
+                        <p>                    
+                         Para la ocupación de cargos públicos de carácter remunerado es necesario que sus respectivos emolumentos estén previstos en el presupuesto correspondiente.
+
+                         Las escalas de salarios en la Administración Pública se establecerán reglamentariamente conforme a la ley.
+
+                         La ley orgánica podrá establecer límites razonables a los emolumentos que devenguen los funcionarios públicos y funcionarias públicas municipales, estadales y nacionales.
+
+                         La ley nacional establecerá el régimen de las jubilaciones y pensiones de los funcionarios públicos y funcionarias públicas nacionales, estadales y municipales.
+                        </p>                    
+                     </div>
+                     <div data-role="collapsible" id="set6" data-collapsed="true" class="ui-collapsible ui-collapsible-inset ui-collapsible-themed-content ui-first-child ui-collapsible-collapsed">
+                    
+                       <h3 class="ui-collapsible-heading ui-collapsible-heading-collapsed">
+                            Artículo 148
+                        </h3>
+                        <p>                    
+                         Nadie podrá desempeñar a la vez más de un destino público remunerado, a menos que se trate de cargos académicos, accidentales, asistenciales o docentes que determine la ley. La aceptación de un segundo destino que no sea de los exceptuados en este artículo, implica la renuncia del primero, salvo cuando se trate de suplentes, mientras no reemplacen definitivamente al principal.
+
+                         Nadie podrá disfrutar más de una jubilación o pensión, salvo los casos expresamente determinados en la ley.
+                        </p>                    
+                     </div>
+                     <div data-role="collapsible" id="set6" data-collapsed="true" class="ui-collapsible ui-collapsible-inset ui-collapsible-themed-content ui-first-child ui-collapsible-collapsed">
+                    
+                       <h3 class="ui-collapsible-heading ui-collapsible-heading-collapsed">
+                            Artículo 149
+                        </h3>
+                        <p>                    
+                         Los funcionarios públicos y funcionarias públicas no podrán aceptar cargos, honores o recompensas de gobiernos extranjeros sin la autorización de la Asamblea Nacional.
+                        </p>                    
+                     </div>
+                    <!-- Seccion 4 -->
+                    <h2>
+                        Sección Cuarta: de los Contratos de Interés Público
+                    </h2>    
+                    <!-- Seccion 4 -->
+                    <div data-role="collapsible" id="set6" data-collapsed="true" class="ui-collapsible ui-collapsible-inset ui-collapsible-themed-content ui-first-child ui-collapsible-collapsed">
+                    
+                       <h3 class="ui-collapsible-heading ui-collapsible-heading-collapsed">
+                            Artículo 150
+                        </h3>
+                        <p>                    
+                         La celebración de los contratos de interés público nacional requerirá la aprobación de la Asamblea Nacional en los casos que determine la ley.
+
+                         No podrá celebrarse contrato alguno de interés público municipal, estadal o nacional, o con Estados o entidades oficiales extranjeras o con sociedades no domiciliadas en Venezuela, ni traspasarse a ellos sin la aprobación de la Asamblea Nacional.
+
+                         La ley podrá exigir en los contratos de interés público determinadas condiciones de nacionalidad, domicilio o de otro orden, o requerir especiales garantías.
+                        </p>                    
+                     </div>
+                     <div data-role="collapsible" id="set6" data-collapsed="true" class="ui-collapsible ui-collapsible-inset ui-collapsible-themed-content ui-first-child ui-collapsible-collapsed">
+                    
+                       <h3 class="ui-collapsible-heading ui-collapsible-heading-collapsed">
+                            Artículo 151
+                        </h3>
+                        <p>                    
+                         En los contratos de interés público, si no fuere improcedente de acuerdo con la naturaleza de los mismos, se considerará incorporada, aun cuando no estuviere expresa, una cláusula según la cual las dudas y controversias que puedan suscitarse sobre dichos contratos y que no llegaren a ser resueltas amigablemente por las partes contratantes, serán decididas por los tribunales competentes de la República, de conformidad con sus leyes, sin que por ningún motivo ni causa puedan dar origen a reclamaciones extranjeras.
+                        </p>                    
+                     </div>
+                     <!-- Seccion 5 -->
+                    <h2>
+                        Sección Quinta: de las Relaciones Internacionales
+                    </h2>    
+                    <!-- Seccion 5 -->
+                    <div data-role="collapsible" id="set6" data-collapsed="true" class="ui-collapsible ui-collapsible-inset ui-collapsible-themed-content ui-first-child ui-collapsible-collapsed">
+                    
+                       <h3 class="ui-collapsible-heading ui-collapsible-heading-collapsed">
+                            Artículo 152
+                        </h3>
+                        <p>                    
+                         Las relaciones internacionales de la República responden a los fines del Estado en función del ejercicio de la soberanía y de los intereses del pueblo; ellas se rigen por los principios de independencia, igualdad entre los Estados, libre determinación y no intervención en sus asuntos internos, solución pacífica de los conflictos internacionales, cooperación, respeto de los derechos humanos y solidaridad entre los pueblos en la lucha por su emancipación y el bienestar de la humanidad. La República mantendrá la más firme y decidida defensa de estos principios y de la práctica democrática en todos los organismos e instituciones internacionales.
+                        </p>                    
+                     </div>
+                     <div data-role="collapsible" id="set6" data-collapsed="true" class="ui-collapsible ui-collapsible-inset ui-collapsible-themed-content ui-first-child ui-collapsible-collapsed">
+                    
+                       <h3 class="ui-collapsible-heading ui-collapsible-heading-collapsed">
+                            Artículo 153
+                        </h3>
+                        <p>                    
+                         La República promoverá y favorecerá la integración latinoamericana y caribeña, en aras de avanzar hacia la creación de una comunidad de naciones, defendiendo los intereses económicos, sociales, culturales, políticos y ambientales de la región. La República podrá suscribir tratados internacionales que conjuguen y coordinen esfuerzos para promover el desarrollo común de nuestras naciones, y que aseguren el bienestar de los pueblos y la seguridad colectiva de sus habitantes. Para estos fines, la República podrá atribuir a organizaciones supranacionales, mediante tratados, el ejercicio de las competencias necesarias para llevar a cabo estos procesos de integración. Dentro de las políticas de integración y unión con Latinoamérica y el Caribe, la República privilegiará relaciones con Iberoamérica, procurando sea una política común de toda nuestra América Latina. Las normas que se adopten en el marco de los acuerdos de integración serán consideradas parte integrante del ordenamiento legal vigente y de aplicación directa y preferente a la legislación interna.
+                        </p>                    
+                     </div>
+                     <div data-role="collapsible" id="set6" data-collapsed="true" class="ui-collapsible ui-collapsible-inset ui-collapsible-themed-content ui-first-child ui-collapsible-collapsed">
+                    
+                       <h3 class="ui-collapsible-heading ui-collapsible-heading-collapsed">
+                            Artículo 154
+                        </h3>
+                        <p>                    
+                         Los tratados celebrados por la República deben ser aprobados por la Asamblea Nacional antes de su ratificación por el Presidente o Presidenta de la República, a excepción de aquellos mediante los cuales se trate de ejecutar o perfeccionar obligaciones preexistentes de la República, aplicar principios expresamente reconocidos por ella, ejecutar actos ordinarios en las relaciones internacionales o ejercer facultades que la ley atribuya expresamente al Ejecutivo Nacional.
+                        </p>                    
+                     </div>
+                     <div data-role="collapsible" id="set6" data-collapsed="true" class="ui-collapsible ui-collapsible-inset ui-collapsible-themed-content ui-first-child ui-collapsible-collapsed">
+                    
+                       <h3 class="ui-collapsible-heading ui-collapsible-heading-collapsed">
+                            Artículo 155
+                        </h3>
+                        <p>                    
+                         En los tratados, convenios y acuerdos internacionales que la República celebre, se insertará una cláusula por la cual las partes se obliguen a resolver por las vías pacíficas reconocidas en el derecho internacional o previamente convenidas por ellas, si tal fuere el caso, las controversias que pudieren suscitarse entre las mismas con motivo de su interpretación o ejecución si no fuere improcedente y así lo permita el procedimiento que deba seguirse para su celebración.
+                        </p>                    
+                     </div>
+                             </div>
+                     <!-- Articulos del Capítulo I -->
+                </div>
+                 <!--  Capítulo I -->
+
+                 <!--  Capítulo II -->
+                <div data-role="collapsible" id="set8" data-collapsed="true" class="ui-collapsible ui-collapsible-inset ui-collapsible-themed-content ui-first-child ui-collapsible-collapsed">
+                        <h3>
+                            Capítulo II
+                        </h3>    
+                        <h2>                
+                            De la Competencia del Poder Público Nacional
+                        </h2>
+                      <!-- Articulos del Capítulo II -->
+                          <div data-role="collapsible-set" data-content-theme="d" id="setArt2" class="ui-collapsible-set ui-corner-all">  
+                     <div data-role="collapsible" id="set9" data-collapsed="true" class="ui-collapsible ui-collapsible-inset ui-collapsible-themed-content ui-first-child ui-collapsible-collapsed">
+                    
+                       <h3 class="ui-collapsible-heading ui-collapsible-heading-collapsed">
+                            Artículo 156
+                        </h3>
+                        <p>                    
+                           Es de la competencia del Poder Público Nacional:
+
+1. La política y la actuación internacional de la República.
+
+2. La defensa y suprema vigilancia de los intereses generales de la República, la conservación de la paz pública y la recta aplicación de la ley en todo el territorio nacional.
+
+3. La bandera, escudo de armas, himno, fiestas, condecoraciones y honores de carácter nacional.
+
+4. La naturalización, la admisión, la extradición y expulsión de extranjeros o extranjeras.
+
+5. Los servicios de identificación.
+
+6. La policía nacional.
+
+7. La seguridad, la defensa y el desarrollo nacional.
+
+8. La organización y régimen de la Fuerza Armada Nacional.
+
+9. El régimen de la administración de riesgos y emergencias.
+
+10. La organización y régimen del Distrito Capital y de las dependencias federales.
+
+11. La regulación de la banca central, del sistema monetario, del régimen cambiario, del sistema financiero y del mercado de capitales; la emisión y acuñación de moneda.
+
+12. La creación, organización, recaudación, administración y control de los impuestos sobre la renta, sobre sucesiones, donaciones y demás ramos conexos, el capital, la producción, el valor agregado, los hidrocarburos y minas, de los gravámenes a la importación y exportación de bienes y servicios, los impuestos que recaigan sobre el consumo de licores, alcoholes y demás especies alcohólicas, cigarrillos y demás manufacturas del tabaco, y los demás impuestos, tasas y rentas no atribuidas a los Estados y Municipios por esta Constitución y la ley.
+
+13. La legislación para garantizar la coordinación y armonización de las distintas potestades tributarias, definir principios, parámetros y limitaciones, especialmente para la determinación de los tipos impositivos o alícuotas de los tributos estadales y municipales, así como para crear fondos específicos que aseguren la solidaridad interterritorial.
+
+14. La creación y organización de impuestos territoriales o sobre predios rurales y sobre transacciones inmobiliarias, cuya recaudación y control corresponda a los Municipios, de conformidad con esta Constitución.
+
+15. El régimen del comercio exterior y la organización y régimen de las aduanas.
+
+16. El régimen y administración de las minas e hidrocarburos, el régimen de las tierras baldías, y la conservación, fomento y aprovechamiento de los bosques, suelos, aguas y otras riquezas naturales del país.
+
+El Ejecutivo Nacional no podrá otorgar concesiones mineras por tiempo indefinido.
+
+La ley establecerá un sistema de asignaciones económicas especiales en beneficio de los Estados en cuyo territorio se encuentren situados los bienes que se mencionan en este numeral, sin perjuicio de que también puedan establecerse asignaciones especiales en beneficio de otros Estados.
+
+17. El régimen de metrología legal y control de calidad.
+
+18. Los censos y estadísticas nacionales.
+
+19. El establecimiento, coordinación y unificación de normas y procedimientos técnicos para obras de ingeniería, de arquitectura y de urbanismo, y la legislación sobre ordenación urbanística.
+
+20. Las obras públicas de interés nacional.
+
+21. Las políticas macroeconómicas, financieras y fiscales de la República.
+
+22. El régimen y organización del sistema de seguridad social.
+
+23. Las políticas nacionales y la legislación en materia de sanidad, vivienda, seguridad alimentaria, ambiente, aguas, turismo, ordenación del territorio y naviera.
+
+24. Las políticas y los servicios nacionales de educación y salud.
+
+25. Las políticas nacionales para la producción agrícola, ganadera, pesquera y forestal.
+
+26. El régimen del transporte nacional, de la navegación y del transporte aéreo terrestre, marítimo, fluvial y lacustre, de carácter nacional; de los puertos, de aeropuertos y su infraestructura.
+
+27. El sistema de vialidad y de ferrocarriles nacionales.
+
+28. El régimen del servicio de correo y de las telecomunicaciones, así como el régimen y la administración del espectro electromagnético.
+
+29. El régimen general de los servicios públicos domiciliarios y, en especial, electricidad, agua potable y gas.
+
+30. El manejo de la política de fronteras con una visión integral del país, que permita la presencia de la venezolanidad y el mantenimiento territorial y la soberanía en esos espacios.
+
+31. La organización y administración nacional de la justicia, el Ministerio Público y el Defensor del Pueblo.
+
+32. La legislación en materia de derechos, deberes y garantías constitucionales; la civil, mercantil, penal, penitenciaria, de procedimientos y de derecho internacional privado; la de elecciones; la de expropiación por causa de utilidad pública o social; la de crédito público; la de propiedad intelectual, artística e industrial; la del patrimonio cultural y arqueológico; la agraria; la de inmigración y poblamiento; la de pueblos indígenas y territorios ocupados por ellos; la del trabajo, previsión y seguridad sociales; la de sanidad animal y vegetal; la de notarías y registro público; la de bancos y la de seguros; la de loterías, hipódromos y apuestas en general; la de organización y funcionamiento de los órganos del Poder Público Nacional y demás órganos e instituciones nacionales del Estado; y la relativa a todas las materias de la competencia nacional.
+
+33. Toda otra materia que la presente Constitución atribuya al Poder Público Nacional, o que le corresponda por su índole o naturaleza.
+                        </p>                    
+                    
+                      </div>
+                      <div data-role="collapsible" id="set10" data-collapsed="true" class="ui-collapsible ui-collapsible-inset ui-collapsible-themed-content ui-first-child ui-collapsible-collapsed">
+                    
+                       <h3 class="ui-collapsible-heading ui-collapsible-heading-collapsed">
+                            Artículo 157
+                        </h3>
+                        <p>                    
+                            La Asamblea Nacional, por mayoría de sus integrantes, podrá atribuir a los Municipios o a los Estados determinadas materias de la competencia nacional, a fin de promover la descentralización.
+                        </p>                    
+                    
+                      </div>
+                      <div data-role="collapsible" id="set11" data-collapsed="true" class="ui-collapsible ui-collapsible-inset ui-collapsible-themed-content ui-first-child ui-collapsible-collapsed">
+                    
+                       <h3 class="ui-collapsible-heading ui-collapsible-heading-collapsed">
+                            Artículo 158
+                        </h3>
+                        <p>                    
+                           La descentralización, como política nacional, debe profundizar la democracia, acercando el poder a la población y creando las mejores condiciones, tanto para el ejercicio de la democracia como para la prestación eficaz y eficiente de los cometidos estatales.
+                        </p>                    
+                      </div> 
+                             </div> 
+                      <!-- Articulos del Capítulo II -->  
+                </div>
+                 <!--  Capítulo II -->
+
+                 <!--  Capítulo III -->
+                <div data-role="collapsible" id="set1" data-collapsed="true" class="ui-collapsible ui-collapsible-inset ui-collapsible-themed-content ui-first-child ui-collapsible-collapsed">
+                    
+                        <h3 class="ui-collapsible-heading ui-collapsible-heading-collapsed">
+                           Capítulo III
+                        </h3>
+                         <h2>
+                          Del Poder Público Estadal
+                         </h2>
+                     <!-- Articulos del Capítulo III -->
+                            <div data-role="collapsible-set" data-content-theme="d" id="setArt1" class="ui-collapsible-set ui-corner-all">
+                    <div data-role="collapsible" id="set2" data-collapsed="true" class="ui-collapsible ui-collapsible-inset ui-collapsible-themed-content ui-first-child ui-collapsible-collapsed">
+                    
+                       <h3 class="ui-collapsible-heading ui-collapsible-heading-collapsed">
+                            Artículo 159
+                        </h3>
+                        <p>                    
+                           Los Estados son entidades autónomas e iguales en lo político, con personalidad jurídica plena, y quedan obligados a mantener la independencia, soberanía e integridad nacional, y a cumplir y hacer cumplir la Constitución y las leyes de la República.
+                        </p>                    
+                     </div>
+                     <div data-role="collapsible" id="set3" data-collapsed="true" class="ui-collapsible ui-collapsible-inset ui-collapsible-themed-content ui-first-child ui-collapsible-collapsed">
+                    
+                       <h3 class="ui-collapsible-heading ui-collapsible-heading-collapsed">
+                            Artículo 160
+                        </h3>
+                        <p>                    
+                            El gobierno y administración de cada Estado corresponde a un Gobernador o Gobernadora. Para ser Gobernador o Gobernadora se requiere ser venezolano o venezolana, mayor de veinticinco años y de estado seglar.
+
+                            El Gobernador o Gobernadora será elegido o elegida por un período de cuatro años por mayoría de las personas que votan. El Gobernador o Gobernadora podrá ser reelegido o reelegida, de inmediato y por una sola vez, para un nuevo período.
+                        </p>                    
+                     </div>
+                     <div data-role="collapsible" id="set4" data-collapsed="true" class="ui-collapsible ui-collapsible-inset ui-collapsible-themed-content ui-first-child ui-collapsible-collapsed">
+                    
+                       <h3 class="ui-collapsible-heading ui-collapsible-heading-collapsed">
+                            Artículo 161
+                        </h3>
+                        <p>                    
+                            Los Gobernadores o Gobernadoras rendirán, anual y públicamente, cuenta de su gestión ante el Contralor o Contralora del Estado y presentarán un informe de la misma ante el Consejo Legislativo y el Consejo de Planificación y Coordinación de Políticas Públicas.
+                        </p>                    
+                     </div>
+                     <div data-role="collapsible" id="set5" data-collapsed="true" class="ui-collapsible ui-collapsible-inset ui-collapsible-themed-content ui-first-child ui-collapsible-collapsed">
+                    
+                       <h3 class="ui-collapsible-heading ui-collapsible-heading-collapsed">
+                            Artículo 162
+                        </h3>
+                        <p>                    
+                           El Poder Legislativo se ejercerá en cada Estado por un Consejo Legislativo conformado por un número no mayor de quince ni menor de siete integrantes, quienes proporcionalmente representarán a la población del Estado y a los Municipios. El Consejo Legislativo tendrá las atribuciones siguientes:
+
+                           1. Legislar sobre las materias de la competencia estadal.
+
+                           2. Sancionar la Ley de Presupuesto del Estado.
+
+                           3. Las demás que le atribuya esta Constitución y la ley.
+
+                           Los requisitos para ser integrante del Consejo Legislativo, la obligación de rendición anual de cuentas y la inmunidad en su jurisdicción territorial, se regirán por las normas que esta Constitución establece para los diputados y diputadas a la Asamblea Nacional, en cuanto le sea aplicable. Los legisladores y legisladoras estadales serán elegidos o elegidas por un período de cuatro años pudiendo ser reelegidos o reelegidas solamente por dos períodos. La ley nacional regulará el régimen de la organización y el funcionamiento del Consejo Legislativo.
+                        </p>                    
+                     </div>
+                     <div data-role="collapsible" id="set6" data-collapsed="true" class="ui-collapsible ui-collapsible-inset ui-collapsible-themed-content ui-first-child ui-collapsible-collapsed">
+                    
+                       <h3 class="ui-collapsible-heading ui-collapsible-heading-collapsed">
+                            Artículo 163
+                        </h3>
+                        <p>                    
+                            Cada Estado tendrá una Contraloría que gozará de autonomía orgánica y funcional. La Contraloría del Estado ejercerá, conforme a esta Constitución y la ley, el control, la vigilancia y la fiscalización de los ingresos, gastos y bienes estadales, sin menoscabo del alcance de las funciones de la Contraloría General de la República. Dicho órgano actuará bajo la dirección y responsabilidad de un Contralor o Contralora, cuyas condiciones para el ejercicio del cargo serán determinadas por la ley, la cual garantizará su idoneidad e independencia; así como la neutralidad en su designación, que será mediante concurso público.
+                        </p>                    
+                     </div>
+                     <div data-role="collapsible" id="set6" data-collapsed="true" class="ui-collapsible ui-collapsible-inset ui-collapsible-themed-content ui-first-child ui-collapsible-collapsed">
+                    
+                       <h3 class="ui-collapsible-heading ui-collapsible-heading-collapsed">
+                            Artículo 164
+                        </h3>
+                        <p>                    
+                           Es de la competencia exclusiva de los estados:
+
+1. Dictar su Constitución para organizar los poderes públicos, de conformidad con lo dispuesto en esta Constitución.
+
+2. La organización de sus Municipios y demás entidades locales y su división políticoterritorial, conforme a esta Constitución y a la ley.
+
+3. La administración de sus bienes y la inversión y administración de sus recursos, incluso de los provenientes de transferencias, subvenciones o asignaciones especiales del Poder Nacional, así como de aquellos que se les asignen como participación en los tributos nacionales.
+
+4. La organización, recaudación, control y administración de los ramos tributarios propios, según las disposiciones de las leyes nacionales y estadales.
+
+5. El régimen y aprovechamiento de minerales no metálicos, no reservados al Poder Nacional, las salinas y ostrales y la administración de las tierras baldías en su jurisdicción, de conformidad con la ley.
+
+6. La organización de la policía y la determinación de las ramas de este servicio atribuidas a la competencia municipal, conforme a la legislación nacional aplicable.
+
+7. La creación, organización, recaudación, control y administración de los ramos de papel sellado, timbres y estampillas.
+
+8. La creación, régimen y organización de los servicios públicos estadales.
+
+9. La ejecución, conservación, administración y aprovechamiento de las vías terrestres estadales.
+
+10. La conservación, administración y aprovechamiento de carreteras y autopistas nacionales, así como de puertos y aeropuertos de uso comercial, en coordinación con el Ejecutivo Nacional.
+
+11. Todo lo que no corresponda, de conformidad con esta Constitución, a la competencia nacional o municipal.
+                        </p>                    
+                     </div>
+                     <div data-role="collapsible" id="set6" data-collapsed="true" class="ui-collapsible ui-collapsible-inset ui-collapsible-themed-content ui-first-child ui-collapsible-collapsed">
+                    
+                       <h3 class="ui-collapsible-heading ui-collapsible-heading-collapsed">
+                            Artículo 165
+                        </h3>
+                        <p>                    
+                           Las materias objeto de competencias concurrentes serán reguladas mediante leyes de bases dictadas por el Poder Nacional, y leyes de desarrollo aprobadas por los Estados. Esta legislación estará orientada por los principios de la interdependencia, coordinación, cooperación, corresponsabilidad y subsidiariedad.
+
+                           Los Estados descentralizarán y transferirán a los Municipios los servicios y competencias que gestionen y que éstos estén en capacidad de prestar, así como la administración de los respectivos recursos, dentro de las áreas de competencias concurrentes entre ambos niveles del Poder Público. Los mecanismos de transferencia estarán regulados por el ordenamiento jurídico estadal.
+                        </p>                    
+                     </div>
+                     <div data-role="collapsible" id="set6" data-collapsed="true" class="ui-collapsible ui-collapsible-inset ui-collapsible-themed-content ui-first-child ui-collapsible-collapsed">
+                    
+                       <h3 class="ui-collapsible-heading ui-collapsible-heading-collapsed">
+                            Artículo 166
+                        </h3>
+                        <p>                    
+                           En cada Estado se creará un Consejo de Planificación y Coordinación de Políticas Públicas, presidido por el Gobernador o Gobernadora e integrado por los Alcaldes o Alcaldesas, los directores o directoras estadales de los ministerios y representación de los legisladores elegidos o legisladoras elegidas por el Estado a la Asamblea Nacional, del Consejo Legislativo, de los concejales o concejalas y de las comunidades organizadas, incluyendo las indígenas donde las hubiere. El mismo funcionará y se organizará de acuerdo con lo que determine la ley.
+                        </p>                    
+                     </div>
+                    <div data-role="collapsible" id="set6" data-collapsed="true" class="ui-collapsible ui-collapsible-inset ui-collapsible-themed-content ui-first-child ui-collapsible-collapsed">
+                    
+                       <h3 class="ui-collapsible-heading ui-collapsible-heading-collapsed">
+                            Artículo 167
+                        </h3>
+                        <p>                    
+                         Son ingresos de los Estados:
+
+1. Los procedentes de su patrimonio y de la administración de sus bienes.
+
+2. Las tasas por el uso de sus bienes y servicios, multas y sanciones, y las que les sean atribuidas.
+
+3. El producto de lo recaudado por concepto de venta de especies fiscales.
+
+4. Los recursos que les correspondan por concepto de situado constitucional. El situado es una partida equivalente a un máximo del veinte por ciento del total de los ingresos ordinarios estimados anualmente por el Fisco Nacional, la cual se distribuirá entre los Estados y el Distrito Capital en la forma siguiente: un treinta por ciento de dicho porcentaje por partes iguales, y el setenta por ciento restante en proporción a la población de cada una de dichas entidades.
+
+En cada ejercicio fiscal, los Estados destinarán a la inversión un mínimo del cincuenta por ciento del monto que les corresponda por concepto de situado. A los Municipios de cada Estado les corresponderá, en cada ejercicio fiscal, una participación no menor del veinte por ciento del situado y de los demás ingresos ordinarios del respectivo Estado.
+
+En caso de variaciones de los ingresos del Fisco Nacional que impongan una modificación del Presupuesto Nacional, se efectuará un reajuste proporcional del situado.
+
+La ley establecerá los principios, normas y procedimientos que propendan a garantizar el uso correcto y eficiente de los recursos provenientes del situado constitucional y de la participación municipal en el mismo.
+
+5. Los demás impuestos, tasas y contribuciones especiales que se les asigne por ley nacional, con el fin de promover el desarrollo de las haciendas públicas estadales.
+
+Las leyes que creen o transfieran ramos tributarios a favor de los Estados podrán compensar dichas asignaciones con modificaciones de los ramos de ingresos señalados en este artículo, a fin de preservar la equidad interterritorial. El porcentaje del ingreso nacional ordinario estimado que se destine al situado constitucional, no será menor al quince por ciento del ingreso ordinario estimado, para lo cual se tendrá en cuenta la situación y sostenibilidad financiera de la Hacienda Pública Nacional, sin menoscabo de la capacidad de las administraciones estadales para atender adecuadamente los servicios de su competencia.
+
+6. Los recursos provenientes del Fondo de Compensación Interterritorial y de cualquier otra transferencia, subvención o asignación especial, así como de aquellos que se les asigne como participación en los tributos nacionales, de conformidad con la respectiva ley.
+                        </p>                    
+                     </div>  
+                             </div>
+                 <!-- Articulos del Capítulo III -->
+                </div>
+                 <!--  Capítulo III -->
+
+                 <!--  Capítulo IV -->
+                <div data-role="collapsible" id="set1" data-collapsed="true" class="ui-collapsible ui-collapsible-inset ui-collapsible-themed-content ui-first-child ui-collapsible-collapsed">
+                    
+                        <h3 class="ui-collapsible-heading ui-collapsible-heading-collapsed">
+                           Capítulo IV
+                        </h3>
+                         <h2>
+                          Del Poder Público Municipal
+                         </h2>
+                     <!-- Articulos del Capítulo IV -->
+                            <div data-role="collapsible-set" data-content-theme="d" id="setArt1" class="ui-collapsible-set ui-corner-all">
+                    <div data-role="collapsible" id="set2" data-collapsed="true" class="ui-collapsible ui-collapsible-inset ui-collapsible-themed-content ui-first-child ui-collapsible-collapsed">
+                    
+                       <h3 class="ui-collapsible-heading ui-collapsible-heading-collapsed">
+                            Artículo 168
+                        </h3>
+                        <p>                    
+                           Los Municipios constituyen la unidad política primaria de la organización nacional, gozan de personalidad jurídica y autonomía dentro de los límites de la Constitución y de la ley. La autonomía municipal comprende:
+
+1. La elección de sus autoridades.
+
+2. La gestión de las materias de su competencia.
+
+3. La creación, recaudación e inversión de sus ingresos.
+
+Las actuaciones del Municipio en el ámbito de sus competencias se cumplirán incorporando la participación ciudadana al proceso de definición y ejecución de la gestión pública y en el control y evaluación de sus resultados, en forma efectiva, suficiente y oportuna, conforme a la ley.
+
+Los actos de los Municipios no podrán ser impugnados sino ante los tribunales competentes, de conformidad con la Constitución y la ley.
+                        </p>                    
+                     </div>
+                     <div data-role="collapsible" id="set3" data-collapsed="true" class="ui-collapsible ui-collapsible-inset ui-collapsible-themed-content ui-first-child ui-collapsible-collapsed">
+                    
+                       <h3 class="ui-collapsible-heading ui-collapsible-heading-collapsed">
+                            Artículo 169
+                        </h3>
+                        <p>                    
+                         La organización de los Municipios y demás entidades locales se regirá por esta Constitución, por las normas que para desarrollar los principios constitucionales establezcan las leyes orgánicas nacionales, y por las disposiciones legales que en conformidad con aquellas dicten los Estados.
+
+                         La legislación que se dicte para desarrollar los principios constitucionales relativos a los Municipios y demás entidades locales, establecerá diferentes regímenes para su organización, gobierno y administración, incluso en lo que respecta a la determinación de sus competencias y recursos, atendiendo a las condiciones de población, desarrollo económico, capacidad para generar ingresos fiscales propios, situación geográfica, elementos históricos y culturales y otros factores relevantes. En particular, dicha legislación establecerá las opciones para la organización del régimen de gobierno y administración local que corresponderá a los Municipios con población indígena. En todo caso, la organización municipal será democrática y responderá a la naturaleza propia del gobierno local.
+                        </p>                    
+                     </div>
+                     <div data-role="collapsible" id="set4" data-collapsed="true" class="ui-collapsible ui-collapsible-inset ui-collapsible-themed-content ui-first-child ui-collapsible-collapsed">
+                    
+                       <h3 class="ui-collapsible-heading ui-collapsible-heading-collapsed">
+                            Artículo 170
+                        </h3>
+                        <p>                    
+                            Los Municipios podrán asociarse en mancomunidades o acordar entre sí o con los demás entes públicos territoriales, la creación de modalidades asociativas intergubernamentales para fines de interés público relativos a materias de su competencia. Por ley se determinarán las normas concernientes a la agrupación de dos o más Municipios en distritos metropolitanos.
+                        </p>                    
+                     </div>
+                     <div data-role="collapsible" id="set5" data-collapsed="true" class="ui-collapsible ui-collapsible-inset ui-collapsible-themed-content ui-first-child ui-collapsible-collapsed">
+                    
+                       <h3 class="ui-collapsible-heading ui-collapsible-heading-collapsed">
+                            Artículo 171
+                        </h3>
+                        <p>                    
+                         Cuando dos o más Municipios pertenecientes a una misma entidad federal tengan relaciones económicas, sociales y físicas que den al conjunto características de un área metropolitana, podrán organizarse como distritos metropolitanos. La ley orgánica que al efecto se dicte garantizará el carácter democrático y participativo del gobierno metropolitano y establecerá sus competencias funcionales, así como el régimen fiscal, financiero y de control. También asegurará que en los órganos de gobierno metropolitano tengan adecuada participación los respectivos Municipios, y señalará la forma de convocar y realizar las consultas populares que decidan la vinculación de estos últimos al distrito metropolitano.
+
+                         La ley podrá establecer diferentes regímenes para la organización, gobierno y administración de los distritos metropolitanos atendiendo a las condiciones de población, desarrollo económico y social, situación geográfica y otros factores de importancia. En todo caso, la atribución de competencias para cada distrito metropolitano tendrá en cuenta esas condiciones.
+                        </p>                    
+                     </div>
+                     <div data-role="collapsible" id="set6" data-collapsed="true" class="ui-collapsible ui-collapsible-inset ui-collapsible-themed-content ui-first-child ui-collapsible-collapsed">
+                    
+                       <h3 class="ui-collapsible-heading ui-collapsible-heading-collapsed">
+                            Artículo 172
+                        </h3>
+                        <p>                    
+                         El Consejo Legislativo estadal, previo pronunciamiento favorable mediante consulta popular de la población afectada, definirá los límites del distrito metropolitano y lo organizará según lo establecido en la ley orgánica nacional, determinando cuáles de las competencias metropolitanas serán asumidas por los órganos de gobierno del respectivo distrito metropolitano.
+
+                         Cuando los Municipios que deseen constituirse en un distrito metropolitano pertenezcan a entidades federales distintas, corresponderá a la Asamblea Nacional su creación y organización.
+                        </p>                    
+                     </div>
+                     <div data-role="collapsible" id="set7" data-collapsed="true" class="ui-collapsible ui-collapsible-inset ui-collapsible-themed-content ui-first-child ui-collapsible-collapsed">
+                    
+                       <h3 class="ui-collapsible-heading ui-collapsible-heading-collapsed">
+                            Artículo 173
+                        </h3>
+                        <p>                  
+                           El Municipio podrá crear parroquias conforme a las condiciones que determine la ley. La legislación que se dicte para desarrollar los principios constitucionales sobre régimen municipal establecerá los supuestos y condiciones para la creación de otras entidades locales dentro del territorio municipal, así como los recursos de que dispondrán, concatenados a las funciones que se les asignen, incluso su participación en los ingresos propios del Municipio. Su creación atenderá a la iniciativa vecinal o comunitaria, con el objeto de promover a la desconcentración de la administración del Municipio, la participación ciudadana y la mejor prestación de los servicios públicos. En ningún caso las parroquias serán asumidas como divisiones exhaustivas o imperativas del territorio del Municipio.
+                        </p>                    
+                     </div>
+                     <div data-role="collapsible" id="set7" data-collapsed="true" class="ui-collapsible ui-collapsible-inset ui-collapsible-themed-content ui-first-child ui-collapsible-collapsed">
+                    
+                       <h3 class="ui-collapsible-heading ui-collapsible-heading-collapsed">
+                            Artículo 174
+                        </h3>
+                        <p>                  
+                           El gobierno y administración del Municipio corresponderán al Alcalde o Alcaldesa, quien será también la primera autoridad civil. Para ser Alcalde o Alcaldesa se requiere ser venezolano o venezolana, mayor de veinticinco años y de estado seglar. El Alcalde o Alcaldesa será elegido o elegida por un período de cuatro años por mayoría de las personas que votan, y podrá ser reelegido o reelegida, de inmediato y por una sola vez, para un nuevo período.
+                        </p>                    
+                     </div>
+                     <div data-role="collapsible" id="set7" data-collapsed="true" class="ui-collapsible ui-collapsible-inset ui-collapsible-themed-content ui-first-child ui-collapsible-collapsed">
+                    
+                       <h3 class="ui-collapsible-heading ui-collapsible-heading-collapsed">
+                            Artículo 175
+                        </h3>
+                        <p>                  
+                           La función legislativa del Municipio corresponde al Concejo, integrado por concejales elegidos o concejalas elegidas en la forma establecida en esta Constitución, en el número y condiciones de elegibilidad que determine la ley.
+                        </p>                    
+                     </div>
+                     <div data-role="collapsible" id="set7" data-collapsed="true" class="ui-collapsible ui-collapsible-inset ui-collapsible-themed-content ui-first-child ui-collapsible-collapsed">
+                    
+                       <h3 class="ui-collapsible-heading ui-collapsible-heading-collapsed">
+                            Artículo 176
+                        </h3>
+                        <p>                  
+                           Corresponde a la Contraloría Municipal el control, vigilancia y fiscalización de los ingresos, gastos y bienes municipales, así como las operaciones relativas a los mismos, sin menoscabo del alcance de las atribuciones de la Contraloría General de la República, y será dirigida por el Contralor o Contralora Municipal, designado o designada por el Concejo mediante concurso público que garantice la idoneidad y capacidad de quien sea designado o designada para el cargo, de acuerdo con las condiciones establecidas por la ley.
+                        </p>                    
+                     </div>
+                     <div data-role="collapsible" id="set7" data-collapsed="true" class="ui-collapsible ui-collapsible-inset ui-collapsible-themed-content ui-first-child ui-collapsible-collapsed">
+                    
+                       <h3 class="ui-collapsible-heading ui-collapsible-heading-collapsed">
+                            Artículo 177
+                        </h3>
+                        <p>                  
+                            La ley nacional podrá establecer principios, condiciones y requisitos de residencia, prohibiciones, causales de inhibición e incompatibilidades para la postulación y ejercicio de las funciones de Alcaldes o Alcaldesas y concejales o concejalas.
+                        </p>                    
+                     </div>
+                     <div data-role="collapsible" id="set7" data-collapsed="true" class="ui-collapsible ui-collapsible-inset ui-collapsible-themed-content ui-first-child ui-collapsible-collapsed">
+                    
+                       <h3 class="ui-collapsible-heading ui-collapsible-heading-collapsed">
+                            Artículo 178
+                        </h3>
+                        <p>                  
+                           Son de la competencia del Municipio el gobierno y administración de sus intereses y la gestión de las materias que le asigne esta Constitución y las leyes nacionales, en cuanto concierne a la vida local, en especial la ordenación y promoción del desarrollo económico y social, la dotación y prestación de los servicios públicos domiciliarios, la aplicación de la política referente a la materia inquilinaria con criterios de equidad, justicia y contenido de interés social, de conformidad con la delegación prevista en la ley que rige la materia, la promoción de la participación, y el mejoramiento, en general, de las condiciones de vida de la comunidad, en las siguientes áreas:
+
+1. Ordenación territorial y urbanística; patrimonio histórico; vivienda de interés social; turismo local; parques y jardines, plazas, balnearios y otros sitios de recreación; arquitectura civil, nomenclatura y ornato público.
+
+2. Vialidad urbana; circulación y ordenación del tránsito de vehículos y personas en las vías municipales; servicios de transporte público urbano de pasajeros y pasajeras.
+
+3. Espectáculos públicos y publicidad comercial, en cuanto concierne a los intereses y fines específicos municipales.
+
+4. Protección del ambiente y cooperación con el saneamiento ambiental; aseo urbano y domiciliario, comprendidos los servicios de limpieza, de recolección y tratamiento de residuos y protección civil.
+
+5. Salubridad y atención primaria en salud, servicios de protección a la primera y segunda infancia, a la adolescencia y a la tercera edad; educación preescolar, servicios de integración familiar del discapacitado al desarrollo comunitario, actividades e instalaciones culturales y deportivas. Servicios de prevención y protección, vigilancia y control de los bienes y las actividades relativas a las materias de la competencia municipal.
+
+6. Servicio de agua potable, electricidad y gas doméstico, alcantarillado, canalización y disposición de aguas servidas; cementerios y servicios funerarios.
+
+7. Justicia de paz, prevención y protección vecinal y servicios de policía municipal, conforme a la legislación nacional aplicable.
+
+8. Las demás que le atribuya la Constitución y la ley.
+
+Las actuaciones que corresponden al Municipio en la materia de su competencia no menoscaban las competencias nacionales o estadales que se definan en la ley conforme a la Constitución.
+                        </p>                    
+                     </div>
+                     <div data-role="collapsible" id="set7" data-collapsed="true" class="ui-collapsible ui-collapsible-inset ui-collapsible-themed-content ui-first-child ui-collapsible-collapsed">
+                    
+                       <h3 class="ui-collapsible-heading ui-collapsible-heading-collapsed">
+                            Artículo 179
+                        </h3>
+                        <p>                  
+                           Los Municipios tendrán los siguientes ingresos:
+
+1. Los procedentes de su patrimonio, incluso el producto de sus ejidos y bienes.
+
+2. Las tasas por el uso de sus bienes o servicios; las tasas administrativas por licencias o autorizaciones; los impuestos sobre actividades económicas de industria, comercio, servicios, o de índole similar, con las limitaciones establecidas en esta Constitución; los impuestos sobre inmuebles urbanos, vehículos, espectáculos públicos, juegos y apuestas lícitas, propaganda y publicidad comercial; y la contribución especial sobre plusvalías de las propiedades generadas por cambios de uso o de intensidad de aprovechamiento con que se vean favorecidas por los planes de ordenación urbanística.
+
+3. El impuesto territorial rural o sobre predios rurales, la participación en la contribución por mejoras y otros ramos tributarios nacionales o estadales, conforme a las leyes de creación de dichos tributos.
+
+4. Los derivados del situado constitucional y otras transferencias o subvenciones nacionales o estadales.
+
+5. El producto de las multas y sanciones en el ámbito de sus competencias y las demás que les sean atribuidas.
+
+6. Los demás que determine la ley.
+                        </p>                    
+                     </div>
+                     <div data-role="collapsible" id="set7" data-collapsed="true" class="ui-collapsible ui-collapsible-inset ui-collapsible-themed-content ui-first-child ui-collapsible-collapsed">
+                    
+                       <h3 class="ui-collapsible-heading ui-collapsible-heading-collapsed">
+                            Artículo 180
+                        </h3>
+                        <p>                  
+                           La potestad tributaria que corresponde a los Municipios es distinta y autónoma de las potestades reguladoras que esta Constitución o las leyes atribuyan al Poder Nacional o Estadal sobre determinadas materias o actividades.
+
+                           Las inmunidades frente a la potestad impositiva de los Municipios, a favor de los demás entes políticoterritoriales, se extiende sólo a las personas jurídicas estatales creadas por ellos, pero no a concesionarios ni a otros contratistas de la Administración Nacional o de los Estados.
+                        </p>                    
+                     </div>
+                     <div data-role="collapsible" id="set7" data-collapsed="true" class="ui-collapsible ui-collapsible-inset ui-collapsible-themed-content ui-first-child ui-collapsible-collapsed">
+                    
+                       <h3 class="ui-collapsible-heading ui-collapsible-heading-collapsed">
+                            Artículo 181
+                        </h3>
+                        <p>                  
+                           La potestad tributaria que corresponde a los Municipios es distinta y autónoma de las potestades reguladoras que esta Constitución o las leyes atribuyan al Poder Nacional o Estadal sobre determinadas materias o actividades.
+
+                           Las inmunidades frente a la potestad impositiva de los Municipios, a favor de los demás entes políticoterritoriales, se extiende sólo a las personas jurídicas estatales creadas por ellos, pero no a concesionarios ni a otros contratistas de la Administración Nacional o de los Estados.
+                        </p>                    
+                     </div>
+                     <div data-role="collapsible" id="set7" data-collapsed="true" class="ui-collapsible ui-collapsible-inset ui-collapsible-themed-content ui-first-child ui-collapsible-collapsed">
+                    
+                       <h3 class="ui-collapsible-heading ui-collapsible-heading-collapsed">
+                            Artículo 182
+                        </h3>
+                        <p>                  
+                           Se crea el Consejo Local de Planificación Pública, presidido por el Alcalde o Alcaldesa e integrado por los concejales y concejalas, los Presidentes o Presidentas de la Juntas Parroquiales y representantes de organizaciones vecinales y otras de la sociedad organizada, de conformidad con las disposiciones que establezca la ley.
+                        </p>                    
+                     </div>
+                     <div data-role="collapsible" id="set7" data-collapsed="true" class="ui-collapsible ui-collapsible-inset ui-collapsible-themed-content ui-first-child ui-collapsible-collapsed">
+                    
+                       <h3 class="ui-collapsible-heading ui-collapsible-heading-collapsed">
+                            Artículo 183
+                        </h3>
+                        <p>                  
+                           Los Estados y los Municipios no podrán:
+
+1. Crear aduanas ni impuestos de importación, de exportación o de tránsito sobre bienes nacionales o extranjeros, o sobre las demás materias rentísticas de la competencia nacional.
+
+2. Gravar bienes de consumo antes de que entren en circulación dentro de su territorio.
+
+3. Prohibir el consumo de bienes producidos fuera de su territorio, ni gravarlos en forma diferente a los producidos en él.
+
+Los Estados y Municipios sólo podrán gravar la agricultura, la cría, la pesca y la actividad forestal en la oportunidad, forma y medida que lo permita la ley nacional.
+                        </p>                    
+                     </div>
+                     <div data-role="collapsible" id="set7" data-collapsed="true" class="ui-collapsible ui-collapsible-inset ui-collapsible-themed-content ui-first-child ui-collapsible-collapsed">
+                    
+                       <h3 class="ui-collapsible-heading ui-collapsible-heading-collapsed">
+                            Artículo 184
+                        </h3>
+                        <p>                  
+                           La ley creará mecanismos abiertos y flexibles para que los Estados y los Municipios descentralicen y transfieran a las comunidades y grupos vecinales organizados los servicios que éstos gestionen previa demostración de su capacidad para prestarlos, promoviendo:
+
+1. La transferencia de servicios en materia de salud, educación, vivienda, deporte, cultura, programas sociales, ambiente, mantenimiento de áreas industriales, mantenimiento y conservación de áreas urbanas, prevención y protección vecinal, construcción de obras y prestación de servicios públicos. A tal efecto, podrán establecer convenios cuyos contenidos estarán orientados por los principios de interdependencia, coordinación, cooperación y corresponsabilidad.
+
+2. La participación de las comunidades y ciudadanos y ciudadanas, a través de las asociaciones vecinales y organizaciones no gubernamentales, en la formulación de propuestas de inversión ante las autoridades estadales y municipales encargadas de la elaboración de los respectivos planes de inversión, así como en la ejecución, evaluación y control de obras, programas sociales y servicios públicos en su jurisdicción.
+
+3. La participación en los procesos económicos estimulando las expresiones de la economía social, tales como cooperativas, cajas de ahorro, mutuales y otras formas asociativas.
+
+4. La participación de los trabajadores y trabajadoras y comunidades en la gestión de las empresas públicas mediante mecanismos autogestionarios y cogestionarios.
+
+5. La creación de organizaciones, cooperativas y empresas comunales de servicios, como fuentes generadoras de empleo y de bienestar social, propendiendo a su permanencia mediante el diseño de políticas donde aquellas tengan participación.
+
+6. La creación de nuevos sujetos de descentralización a nivel de las parroquias, las comunidades, los barrios y las vecindades a los fines de garantizar el principio de la corresponsabilidad en la gestión pública de los gobiernos locales y estadales y desarrollar procesos autogestionarios y cogestionarios en la administración y control de los servicios públicos estadales y municipales.
+
+7. La participación de las comunidades en actividades de acercamiento a los establecimientos penales y de vinculación de éstos con la población.
+                        </p>                    
+                     </div>
+                             </div>
+                     <!-- Articulos del Capítulo IV -->
+                </div>
+                 <!--  Capítulo IV -->
+
+                 <!--  Capítulo V -->
+                <div data-role="collapsible" id="set1" data-collapsed="true" class="ui-collapsible ui-collapsible-inset ui-collapsible-themed-content ui-first-child ui-collapsible-collapsed">
+                    
+                        <h3 class="ui-collapsible-heading ui-collapsible-heading-collapsed">
+                           Capítulo V
+                        </h3>
+                         <h2>
+                          Del Consejo Federal de Gobierno
+                         </h2>
+                     <!-- Articulos del Capítulo V -->
+                            <div data-role="collapsible-set" data-content-theme="d" id="setArt1" class="ui-collapsible-set ui-corner-all">
+                    <div data-role="collapsible" id="set2" data-collapsed="true" class="ui-collapsible ui-collapsible-inset ui-collapsible-themed-content ui-first-child ui-collapsible-collapsed">
+                    
+                       <h3 class="ui-collapsible-heading ui-collapsible-heading-collapsed">
+                            Artículo 185
+                        </h3>
+                        <p>                    
+                         El Consejo Federal de Gobierno es el órgano encargado de la planificación y coordinación de políticas y acciones para el desarrollo del proceso de descentralización y transferencia de competencias del Poder Nacional a los Estados y Municipios. Estará presidido por el Vicepresidente Ejecutivo o Vicepresidenta Ejecutiva e integrado por los Ministros y Ministras, los Gobernadores y Gobernadoras, un Alcalde o Alcaldesa por cada Estado y representantes de la sociedad organizada, de acuerdo con la ley.
+
+                         El Consejo Federal de Gobierno contará con una Secretaría, integrada por el Vicepresidente Ejecutivo o Vicepresidenta Ejecutiva, dos Ministros o Ministras, tres Gobernadores o Gobernadoras y tres Alcaldes o Alcaldesas. Del Consejo Federal de Gobierno dependerá el Fondo de Compensación Interterritorial, destinado al financiamiento de inversiones públicas dirigidas a promover el desarrollo equilibrado de las regiones, la cooperación y complementación de las políticas e iniciativas de desarrollo de las distintas entidades públicas territoriales, y a apoyar especialmente la dotación de obras y servicios esenciales en las regiones y comunidades de menor desarrollo relativo. El Consejo Federal de Gobierno, con base en los desequilibrios regionales, discutirá y aprobará anualmente los recursos que se destinarán al Fondo de Compensación Interterritorial y las áreas de inversión prioritaria a las cuales se aplicarán dichos recursos.
+                        </p>                    
+                     </div>
+                     <!-- Articulos del Capítulo V -->
+                </div>
+                 <!--  Capítulo V -->
+        </div>
+    </div> 
+
+        
+
+
+        <script type="text/javascript" src="js/jquery.js"></script>
+        <script type="text/javascript" src="js/jquery.mobile-1.3.0.min.js"></script>
+        <script type="text/javascript">
+        </script>
+    </body>
+</html>
