@@ -48,6 +48,11 @@
 						$( "#resultado" ).load('titulo1.html #'+art);
 					}//fin if
 					
+					if (art >= 350){
+						//Carga el div del id de la pagina con el Numero De Articulo
+						$( "#resultado" ).text('Solo son 350 Articulos :-(');
+					}//fin if
+					
 					//////////////////////////////////////////////
 					//articulo del 10 a 15
 					artRango(art,10,15,"titulo2Cap1.html");				
@@ -113,6 +118,7 @@
 					artRango(art,342,346,"titulo9Cap2.html");
 					//articulo del 347 a 350
 					artRango(art,347,350,"titulo9Cap3.html");
+					
 					///////////////////////////////////////////////
 
 		 });//fin Change
