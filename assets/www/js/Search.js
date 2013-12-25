@@ -22,7 +22,6 @@
  */
 
  var art = 0;
- var srt = "";
  
 //Funcion que se invoca cada vez que se escribe en el input
  //.keypress()
@@ -30,10 +29,10 @@
 	 	art = ($( this ).val());
 	 
 	 console.log(art);
-
+	 
 	 	//articulo del 1 a 9
 		if (art <= 9){
-			//Carga el id del Div de la pagina con el Numero De Articulo
+			//Carga el div del id de la pagina con el Numero De Articulo
 			$( "#resultado" ).load('titulo1.html #'+art);
 			 
 		};
