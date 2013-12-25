@@ -5,6 +5,6 @@ Esta es una aplicación de la Constitución de la República Bolivariana de Vene
 
 Esta aplicacion la implemente con la finalidad de aprender el desarrollo movil usando HTML5 y Jquery.
 
-Version: Beta-1
+Version: Estable 2
 
-Pasa a ser Estable Luego de la Optimizacion y la carga de todo el Contenido.
+
